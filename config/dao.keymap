@@ -35,6 +35,11 @@
             bindings = <&kp LS(LEFT_ALT)>;
             key-positions = <8 9>;
         };
+
+        shft_alt {
+            bindings = <&kp LS(LEFT_ALT)>;
+            key-positions = <35>;
+        };
     };
 
     keymap {
